@@ -1,0 +1,7 @@
+line-length = 120
+select = ["E", "F", "C", "W", "UP", "YTT", "S", "BLE", "B", "FBT", "A", "COM", "C4", "ISC", "ICN", "T", "PIE", "PT", "RET", "SIM", "TID", "PTH", "ARG", "PLE", "PLR", "TRY", "PLW", "RSE", "RUF", "Q"]
+ignore = ["S101", "RUF001", "RUF003", "ARG001"]
+target-version = "py310"
+
+[flake8-quotes]
+inline-quotes = 'single'

@@ -1,0 +1,15 @@
+export BOT_TOKEN=616111111:AAHHHHHHHHHHHHHHHMooooooooooooooooO
+export GSHEET_WRITER_CREDS_PATH=/home/shrimpsizemoose/airflow/credentials/lunar-stone-333333-bebebe555555.json
+export DASHBOARD_SHEET_ID=1ZZZZhQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXVkDE
+
+export SCORE_LOG_RANGE='🤖 scoring'
+export SCORE_TIMESTAMP_RANGE='🤖 scoring!F1:G1'
+export SCORE_ROW_WRITE_TEMPLATE='🤖 scoring!A{0}:C{0}'
+
+export DECISIONS_WORKSHEET_NAME='Дисижнс'
+export DECISIONS_TIMESTAMP_RANGE='🤖 scoring!F2:G2'
+export DECISIONS_ROW_WRITE_RANGE='Дисижнс!A1:D1'
+
+export REMINDERS_WORKSHEET_NAME='🤖 напоминания'
+export REMINDERS_TIMESTAMP_RANGE='🤖 scoring!F3:G3'
+export REMINDERS_ROW_WRITE_RANGE='🤖 напоминания!A1:B1'
